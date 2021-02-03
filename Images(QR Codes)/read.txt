@@ -1,0 +1,2 @@
+this folder will contain all the  Qr codes generated in the app
+where file name is "website name" and password is Qr code
